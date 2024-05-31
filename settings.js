@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "923321600604",
+  SUDO_NUMBERS : "923321600604,923111600604",
+  OWNER_NAME: "『 𝐒𝐚𝐧𝐝𝐢𝐥𝐚 𝐖𝐫𝐢𝐭𝐞𝐬ツ 』",
+  BOT_NAME : "S A N D I L A",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -49,7 +49,7 @@ module.exports = {
   },
   READ : {
      ALL_MESSAGES : true,
-     ONLY_COMMANDS : false,
+     ONLY_COMMANDS : true,
      STATUS : true,
   },
   BOT_OFFLINE : false,
